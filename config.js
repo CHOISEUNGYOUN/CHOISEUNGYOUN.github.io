@@ -18,16 +18,12 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Youn Choi(최승윤)',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'On a trail to become a backend developer.',
     contacts: {
       email: '#',
       telegram: '#',
