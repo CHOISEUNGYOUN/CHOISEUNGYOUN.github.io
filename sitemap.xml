@@ -5,14 +5,18 @@
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day1: HTML &amp; CSS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day2: CSS-Flex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day7: ES6-Class 적용 삽질 후기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day3~5: DOM과 삽질후기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day6: ES6-Class/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/css/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/dom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/es-6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/html/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/oop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/category/til</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/category/til/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
