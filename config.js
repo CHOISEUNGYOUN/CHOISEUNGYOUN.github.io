@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: "Youn's Journal",
+  subtitle: 'The world is your oyster.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
