@@ -25,12 +25,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'On a trail to become a backend developer.',
     contacts: {
-      email: '#',
-      telegram: '#',
       twitter: '#',
       github: '#',
-      rss: '#',
-      vkontakte: '#'
+      linkedin: '#',
     }
   }
 };
