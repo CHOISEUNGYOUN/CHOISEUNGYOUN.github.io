@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Aug 2019 11:37:14 GMT</lastBuildDate><item><title><![CDATA[TIL - Day1: HTML & CSS]]></title><description><![CDATA[위코드 1일차.]]></description><link>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day1: HTML &amp; CSS/</link><guid isPermaLink="false">https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day1: HTML &amp; CSS/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;!-- - [The first transition](#the-first-transition) --&gt;
+&lt;p&gt;새로운 부트캠프에서 새로운 과정을 시작하였으니, 새롭게 시작한다는 마음으로 velog를 시작하게 되었다. 사족은 이쯤에서 끝내도록 하고, 어제 배운 HTML과 CSS중, 새롭게 알게된 부분에 대해 정리 해 보고자 한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Indentation &amp;#x26; Non-breaking Space(  or  )&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-breaking Space - 줄 바꿈 없는 공백(  or  )
+이번에 새롭게 정리하면서 알게 된 기능이다. HTML을 작성하면서 띄어쓰기는 항상 어떻게 작성 할 수 있을까 고민을 많이 하였었는데, 이것이 나의 고민을 어느정도 해결 해 주었다. 우선 HTML에서 바로 공백을 삽입하고 싶다면, 공백을 나타내는 기호인  나 공백의 주소값인  을 작성 해 주면, HTML이 해당 기호를 ” “(space)로 읽어 우리에게 보여준다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;e.g.)
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&amp;amp;nbsp Hello &amp;amp;nbsp&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!--&quot; Hello &quot; --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&amp;amp;#160 Hello &amp;amp;#160&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!--&quot; Hello &quot; --&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위의 코드예시는 Hello의 앞뒤로 공백이 있다는 것으로 인식하고 HTML 페이지를 출력 시켜 줄 것이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Indentation(들여쓰기)
+들여쓰기를 CSS에서도 구현 할 수 있다! 이를 구현 해주는 속성이 바로 text-indent이다. text-indent의 작성법은 하기와 같다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;anyTag&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token property&quot;&gt;text-indent&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이처럼 작성 해 준다면, font-size 10px기준 공백 2칸을 얻을 수 있을 것이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Border
+Border는 페이지 만들 때 마다 사용 하였는데, border 속성 부여방법을 제대로 몰라 매번 border-style, border-width 등 비효율적인 작업을 했던 것 같다. 그래서 다음 부터는 좀 더 간결하게 작성하기 위해 작성법을 한번 정리 해 보았다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;anyTag&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token property&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;thickness&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;solid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;style&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;red&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;color&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;괄호 안에 작성 순서를 적어 놓았으니 참고 하면 좋을 것 같다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;배고파서 여기까지만 작성하고 내일 아침에 다시 정리 하도록 하겠습니다~~~&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;필자가 영문으로 기입하는 이유는, 나중에 코드 작성할 시, 결국 영문으로 작성하기에 나중에 좀 더 찾기쉽고 기억하기 쉽게 하기 위해 중요 키워드는 영문으로 작성하려고 한다.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
