@@ -56,8 +56,8 @@ Django의 내장 메서드를 사용하면 위와 같이 server에서 요청하�
 
 *Reference:
 [William Vincent : Django Models Best Practices
-](https://wsvincent.com/django-models-best-practices/)
-[Web Forefront:Django model data types](https://www.webforefront.com/django/modeldatatypesandvalidation.html)
-[Django : Models](https://docs.djangoproject.com/en/2.2/topics/db/models/)
+](https://wsvincent.com/django-models-best-practices/)</br>
+[Web Forefront:Django model data types](https://www.webforefront.com/django/modeldatatypesandvalidation.html)</br>
+[Django : Models](https://docs.djangoproject.com/en/2.2/topics/db/models/)</br>
 
 

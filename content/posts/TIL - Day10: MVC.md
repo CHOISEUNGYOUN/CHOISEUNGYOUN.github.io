@@ -34,8 +34,8 @@ Model은 Django.db 에 존재하는 하나의 클래스라고 보면 된다. Dja
 
 이렇게 기본적인 개념들을 정리 해 보았으니, 다음 포스팅에서 부터는 MVT 중에서도 MV를 중점적으로 다루어 실제 API를 작성 해보는 과정을 기술하도록 하겠다.
 
-*Reference : [Wikipedia: Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
-[Data Flair: Django Architecture](https://data-flair.training/blogs/django-architecture/)
-[Data Flair: Django Models](https://data-flair.training/blogs/django-models/)
-[Data Flair: Django Views](https://data-flair.training/blogs/django-views/)
-[Data Flair: Django Templates](https://data-flair.training/blogs/create-django-templates/)*
+*Reference : [Wikipedia: Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)</br>
+[Data Flair: Django Architecture](https://data-flair.training/blogs/django-architecture/)</br>
+[Data Flair: Django Models](https://data-flair.training/blogs/django-models/)</br>
+[Data Flair: Django Views](https://data-flair.training/blogs/django-views/)</br>
+[Data Flair: Django Templates](https://data-flair.training/blogs/create-django-templates/)*</br>
