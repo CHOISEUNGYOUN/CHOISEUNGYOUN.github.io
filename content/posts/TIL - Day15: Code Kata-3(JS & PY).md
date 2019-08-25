@@ -76,5 +76,19 @@ const getLengthOfStr = str => {
 
 ### Python
 
-*아직 문제 풀이를 완료하지 못하여서 다 풀고 다시 올리도록 하겠습니다...*
+```Python
+def getLengthOfStr(string):
+  if string == '':
+    return ''
+  results = []
+  for x in range(len(string)):
+    container = string[x]
+    for y in range(x+1, len(string)):
+      if string[y] not in container:
+        container = container + string[y]
+      else:
+        break
+    results.append(int(len(container)))
 
+  return max(results)
+```
