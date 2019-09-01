@@ -11,7 +11,7 @@ tags:
   - "Algorithm"
   - "Code Kata"
 
-description: "Wecode Code Kata day2"
+description: "Wecode Code Kata day3"
 ---
 
 _**<u>필자는 현재 Python을 이용한 Backend 공부를 시작했기에, 모든 Code Kata 문제들을 JS와 PY로 풀어 올리도록 하겠다.</u>**_</br>
