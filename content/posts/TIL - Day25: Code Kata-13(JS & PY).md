@@ -68,6 +68,17 @@ const minPathSum = grid => {
 ### Python
 
 ```Python
-작성 중입니다.
+def minPathSum(grid):
+  for x in range(1,len(grid)):
+    grid[x][0] = grid[x][0] + grid[x-1][0]
+  
+  for x in range(1,len(grid[0])):
+    grid[0][x] = grid[0][x] + grid[0][x-1]
+    
+  for x in range(1,len(grid)):
+    for y in range(1,len(grid[0])):
+      grid[x][y] = grid[x][y] + min(grid[x-1][y], grid[x][y-1])
+  
+  return grid[len(grid)-1][len(grid[0])-1]
 ```
 *이 문제 정말 어렵다... 아직도 이해 못했다...*

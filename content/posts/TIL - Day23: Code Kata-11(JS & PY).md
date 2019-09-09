@@ -109,6 +109,15 @@ const complexNumberMultiply = (a, b) => {
 ### Python
 
 ```Python
-작성중입니다...
+def complexNumberMultiply(a, b):
+  a  = a[:len(a)-1].split('+')
+  a1 = int(a[0])
+  a2 = int(a[1])
+  b  = b[:len(b)-1].split('+')
+  b1 = int(b[0])
+  b2 = int(b[1])
+  
+  result = f'{a1 * b1 - a2 * b2}' '+' f'{a1 * b2 + a2 * b1}i'
+  return result
 ```
 *프로젝트 마무리 한다고 솔직히 신경을 못썼다... 반성하자*
