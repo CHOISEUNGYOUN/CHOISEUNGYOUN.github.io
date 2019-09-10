@@ -93,7 +93,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day11: Models/
+/posts/TIL - Day12: Views/
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -101,7 +101,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day12: Views/
+/posts/TIL - Day11: Models/
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -117,7 +117,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day14: Code Kata-2(JS & PY) /
+/posts/TIL - Day15: Code Kata-3(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -125,7 +125,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day15: Code Kata-3(JS & PY) /
+/posts/TIL - Day14: Code Kata-2(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -173,7 +173,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day20: Code Kata-8(JS & PY) /
+/posts/TIL - Day21: Code Kata-9(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -181,7 +181,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day21: Code Kata-9(JS & PY) /
+/posts/TIL - Day20: Code Kata-8(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -221,6 +221,14 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
+/posts/TIL - Day27: Code Kata-15(JS & PY) /
+  Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
+  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
+  Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
+  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
+  Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
+  Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
 /posts/TIL - Day25: Code Kata-13(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
@@ -229,7 +237,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day27: Code Kata-15(JS & PY) /
+/posts/TIL - Day2: CSS-Flex/
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -246,14 +254,6 @@
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
 /posts/TIL - Day29: Code Kata-16(JS & PY) /
-  Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
-  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
-  Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
-  Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
-  Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
-  Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day2: CSS-Flex/
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -285,7 +285,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day33: Code Kata-20(JS & PY) /
+/posts/TIL - Day34: Password Encryption/
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
@@ -293,7 +293,7 @@
   Link: </1-555dcff30d49353f436a.js>; rel=preload; as=script
   Link: </2-9da65bbaa5aeb83094b6.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-14feb3a71a01eae45459.js>; rel=preload; as=script
-/posts/TIL - Day34: Password Encryption/
+/posts/TIL - Day33: Code Kata-20(JS & PY) /
   Link: </webpack-runtime-22ce476e5bfc215ed57d.js>; rel=preload; as=script
   Link: </styles-3ae1e6b6e64083b869fd.js>; rel=preload; as=script
   Link: </app-a6337a4d0e8550bf5163.js>; rel=preload; as=script
