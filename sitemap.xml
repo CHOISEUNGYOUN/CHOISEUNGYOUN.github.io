@@ -2,44 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day10: MVC/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day12: Views/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day10: MVC/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day11: Models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day15: Code Kata-3(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day12: Views/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day13: Code Kata-1(JS &amp; PY)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day14: Code Kata-2(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day15: Code Kata-3(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day16: Code Kata-4(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day17: Code Kata-5(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day18: Code Kata-6(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day13: Code Kata-1(JS &amp; PY)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day19: Code Kata-7(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day1: HTML &amp; CSS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day20: Code Kata-8(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day16: Code Kata-4(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day21: Code Kata-9(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day22: Code Kata-10(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day26: Code Kata-14(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day27: Code Kata-15(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day29: Code Kata-16(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day23: Code Kata-11(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day24: Code Kata-12(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day26: Code Kata-14(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day25: Code Kata-13(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day27: Code Kata-15(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day28: Class-based View /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day29: Code Kata-16(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day2: CSS-Flex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day30: Code Kata-17(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day31: Code Kata-18(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day28: Class-based View /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day24: Code Kata-12(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day25: Code Kata-13(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day33: Code Kata-20(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day32: Code Kata-19(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day2: CSS-Flex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day33: Code Kata-20(JS &amp; PY) /</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day34: Password Encryption/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day3~5: DOM과 삽질후기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day6: ES6-Class/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day9: UI와 API/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day8: Python Intro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day7: ES6-Class 적용 삽질 후기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day8: Python Intro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/posts/TIL - Day9: UI와 API/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/algorithm/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/algorithm/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/algorithm/page/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/algorithm/page/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/argon-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/bcrypt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/css/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -51,6 +54,7 @@
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/dom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/design-pattern</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/django</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/django/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/es-6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/foundation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -65,6 +69,7 @@
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/mvt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/models</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/oop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/password-encryption</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://github.com/CHOISEUNGYOUN/CHOISEUNGYOUN.github.io.git/tag/python/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
