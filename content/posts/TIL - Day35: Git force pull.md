@@ -38,6 +38,6 @@ git reset --hard origin/master
 git pull origin master
 ```
 
-Just try when you do not make any revision, just want to pull the latest version of the master!!
+Just try when you do not make any revision, but just want to pull the latest version of the master!!
 
 *Reference: [P vladimirtsyupko/gist:10964772](https://gist.github.com/vladimirtsyupko/10964772)</br> [WWW Creators - How to force “git pull” to overwrite a local branch?](http://www-creators.com/en/archives/1687)</br>
