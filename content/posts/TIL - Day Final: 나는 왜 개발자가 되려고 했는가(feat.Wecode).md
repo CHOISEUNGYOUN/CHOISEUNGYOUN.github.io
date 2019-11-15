@@ -3,7 +3,7 @@ title: "TIL - Day Final: 나는 왜 개발자가 되려고 했는가(feat.Wecode
 date: "2019-10-17T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day Final: 나는 왜 개발자가 되려고 했는가(feat.Wecode)/"
+slug: "/posts/TIL-Day-Final:-나는-왜-개발자가-되려고-했는가(feat.Wecode)/"
 category: "TIL"
 tags:
   - "Wecode"

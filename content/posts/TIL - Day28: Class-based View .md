@@ -3,7 +3,7 @@ title: "TIL - Day28: Class-based View "
 date: "2019-08-26T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day28: Class-based View /"
+slug: "/posts/TIL-Day28:-Class-based-View/"
 category: "TIL"
 tags:
   - "Python"

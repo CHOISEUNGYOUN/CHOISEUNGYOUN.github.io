@@ -3,7 +3,7 @@ title: "TIL - Day11: Models"
 date: "2019-08-09T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day11: Models/"
+slug: "/posts/TIL-Day11:-Models/"
 category: "TIL"
 tags:
   - "Django"

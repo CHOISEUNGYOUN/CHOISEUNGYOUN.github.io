@@ -3,7 +3,7 @@ title: "TIL - Day10: MVT"
 date: "2019-08-08T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day10: MVC/"
+slug: "/posts/TIL-Day10:-MVC/"
 category: "TIL"
 tags:
   - "Django"

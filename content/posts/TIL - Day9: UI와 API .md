@@ -3,7 +3,7 @@ title: "TIL - Day9: UI와 API"
 date: "2019-08-07T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day9: UI와 API/"
+slug: "/posts/TIL-Day9:-UI와-API/"
 category: "TIL"
 tags:
   - "Programming"

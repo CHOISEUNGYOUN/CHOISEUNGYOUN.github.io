@@ -3,7 +3,7 @@ title: "TIL - Day3~5: DOM과 삽질후기"
 date: "2019-08-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day3~5: DOM과 삽질후기/"
+slug: "/posts/TIL-Day3~5:-DOM과 삽질후기/"
 category: "TIL"
 tags:
   - "HTML"

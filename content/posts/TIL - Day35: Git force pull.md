@@ -3,7 +3,7 @@ title: "TIL - Day35: Git force pull"
 date: "2019-09-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day35: Git force pull/"
+slug: "/posts/TIL-Day35:-Git-force-pull/"
 category: "TIL"
 tags:
   - "Git"

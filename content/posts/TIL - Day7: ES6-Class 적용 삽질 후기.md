@@ -3,7 +3,7 @@ title: "TIL - Day7: ES6-Class 적용 삽질 후기"
 date: "2019-08-05T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day7: ES6-Class 적용 삽질 후기/"
+slug: "/posts/TIL-Day7:-ES6-Class-적용-삽질-후기/"
 category: "TIL"
 tags:
   - "HTML"

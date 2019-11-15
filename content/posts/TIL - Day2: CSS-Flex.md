@@ -3,7 +3,7 @@ title: "TIL - Day2: CSS-Flex"
 date: "2019-07-30T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day2: CSS-Flex/"
+slug: "/posts/TIL-Day2:-CSS-Flex/"
 category: "TIL"
 tags:
   - "HTML"

@@ -3,7 +3,7 @@ title: "TIL - Day8: Python Intro"
 date: "2019-08-06T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day8: Python Intro/"
+slug: "/posts/TIL-Day8:-Python-Intro/"
 category: "TIL"
 tags:
   - "Python"

@@ -3,7 +3,7 @@ title: "TIL - Day6: ES6-Class"
 date: "2019-08-04T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day6: ES6-Class/"
+slug: "/posts/TIL-Day6:-ES6-Class/"
 category: "TIL"
 tags:
   - "HTML"

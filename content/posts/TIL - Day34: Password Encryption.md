@@ -3,7 +3,7 @@ title: "TIL - Day34: Password Encryption"
 date: "2019-09-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day34: Password Encryption/"
+slug: "/posts/TIL-Day34:-Password-Encryption/"
 category: "TIL"
 tags:
   - "Python"

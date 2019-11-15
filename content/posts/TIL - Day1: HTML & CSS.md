@@ -3,7 +3,7 @@ title: "TIL - Day1: HTML & CSS"
 date: "2019-07-29T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day1: HTML & CSS/"
+slug: "/posts/TIL-Day1:-HTML-&-CSS/"
 category: "TIL"
 tags:
   - "HTML"

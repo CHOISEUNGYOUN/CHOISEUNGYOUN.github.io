@@ -3,7 +3,7 @@ title: "TIL - Day12: Views"
 date: "2019-08-10T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day12: Views/"
+slug: "/posts/TIL-Day12:-Views/"
 category: "TIL"
 tags:
   - "Django"

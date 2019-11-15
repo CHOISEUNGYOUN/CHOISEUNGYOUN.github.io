@@ -3,7 +3,7 @@ title: "TIL - Day29: Code Kata-16(JS & PY) "
 date: "2019-08-27T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/TIL - Day29: Code Kata-16(JS & PY) /"
+slug: "/posts/TIL-Day29:-Code-Kata-16(JS-&-PY)/"
 category: "TIL"
 tags:
   - "Python"

@@ -3,7 +3,7 @@ title: "Google Cloud-1 인스턴스 생성하기"
 date: "2019-11-11T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/Google Cloud-1 인스턴스 생성하기/"
+slug: "/posts/Google Cloud-1-인스턴스-생성하기/"
 category: "Google Cloud"
 tags:
   - "Google Cloud"
