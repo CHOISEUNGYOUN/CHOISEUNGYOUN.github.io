@@ -4,13 +4,16 @@ template: "page"
 ---
 
 `2019.10 ~ `</br>
-### Backend & Machine Learning Engineer, Rawls-on</br>
+### Backend & Machine Learning Engineer, [Rawls-on](https://rawls-on.com/)</br>
 __(Seoul, South Korea)__</br>
 Mainly dealing with developing HPE(Human Pose Estimation) application with Python, Keras, Tensorflow.
 Maintaining API with Django-REST-framework.
+See the our site</br>
+
+- [ReplayMe](https://replayme.app/#/)(repetitive practice assistance)
 
 `2019.07 ~ 2019.10`</br>
-### Coding Bootcamp, WeCode</br>
+### Coding Bootcamp, [WeCode](https://wecode.co.kr/)</br>
 __(Seoul, South Korea)__</br>
 Graduated 3 months of intensive offline coding bootcamp learning ranging from CS knowledges, to advanced Python & Javascript skills.  
 
