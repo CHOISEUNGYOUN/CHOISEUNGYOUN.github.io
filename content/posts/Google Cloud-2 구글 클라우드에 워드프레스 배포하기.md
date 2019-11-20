@@ -72,5 +72,5 @@ Linux 사용자라면, `apt-get install mysql-client=5.7`로 설치하면 된다
 mysql 접속 커맨드는,
 `mysql -h [your_host] -u root -p[your_password]` 이다.
 여기 까지 하였다면, 나머지는 기존 mysql 설정과 동일하게 적용 하면 된다.
-
+*__참고로 개방된 네트워크를 의미하는 0.0.0.0/0 설정을 하게 된다면, 어떠한 기기에서도 접속이 가능하다.__*
 여기까지가 Cloud SQL 연결법이며, 추가적으로 다른 연결 설정을 하고 싶다면 [여기](https://cloud.google.com/sql/docs/mysql/external-connection-methods?hl=ko&_ga=2.170452259.-2023315922.1572834985)를 참고하자!
