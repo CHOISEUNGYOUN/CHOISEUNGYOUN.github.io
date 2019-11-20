@@ -33,6 +33,7 @@ GCP의 기능을 terminal에서 사용 할 수 있도록 도와주는 도구가 
   - 처음 사용한다면 먼저 `gcloud auth login`으로 계정을 등록하자.
   - 그 다음, `gcloud config set project [your_project_id]`로 프로젝트를 등록하자. 프로젝트는 콘솔에서 확인 할 수 있다.
   - 그리고 항상 지금 설정되어 있는 계정으로 인증 할 수 있도록 `gcloud auth application-default login`을 입력하자.
+  - 설정하였을 때 발급 받은 ssh로 로그인 하고싶다면, `gcloud compute ssh [your_instance_name]` 으로 접속하자.
 
 ### 5. Compute Engine 인스턴스 생성하기.
 AWS에 EC2 가 있다면, GCP 에는 동일한 기능을 지원해주는 Compute Engine이 있다. 이미 AWS를 사용 해 보았다면, 손쉽게 인스턴스를 생성할 수 있고 만일 경험이 없더라도, 비교적 사용하기 쉬운 UI구성이니, 이번기회에 한번 사용해보자.
