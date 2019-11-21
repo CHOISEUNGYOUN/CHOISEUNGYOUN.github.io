@@ -3,7 +3,7 @@ title: "Google Cloud-2 구글 클라우드 mysql 생성 & 설정하기"
 date: "2019-11-20T16:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/Google-Cloud-2-구글-클라우드-mysql-생성-&-설정하기/"
+slug: "/posts/Google-Cloud-2/"
 category: "Google Cloud"
 tags:
   - "Google Cloud"
@@ -32,7 +32,7 @@ description: "구글 클라우드 플랫폼 인 액션과 함께하는 GCP 학�
 
 이 화면에서 적당한 인스턴스 ID와 root 비밀번호를 선택하자(mysql 비밀번호다.)
 
-[이전 포스팅](https://choiseungyoun.github.io/posts/Google-Cloud-1-인스턴스-생성하기/)에서도 언급 하였듯이, 리전은 물리 서버가 어느 곳에 존재 할 것인지 결정하는 요소이기에, 서비스 배포할 국가를 고려하여 선택 하도록 하자.</br>
+[이전 포스팅](https://choiseungyoun.github.io/posts/Google-Cloud-1/)에서도 언급 하였듯이, 리전은 물리 서버가 어느 곳에 존재 할 것인지 결정하는 요소이기에, 서비스 배포할 국가를 고려하여 선택 하도록 하자.</br>
 선택을 완료 하였다면, 생성 버튼을 누르고 몇분간 기다려 주자(물리 서버에서 이미지를 생성하는 과정이기에 조금 오래 걸린다.)
 
 이렇게 생성한 인스턴스는 터미널에서 `gcloud sql instances list` 에서 확인 할 수 있다.
