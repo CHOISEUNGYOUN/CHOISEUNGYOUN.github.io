@@ -46,15 +46,15 @@ __소셜로그인을 구현하고 싶으나 어려우시다구요??__ 저도 매
 ```Javascript
 function googleSignIn () {
     return gapi.load('auth2', () => {
-    gapi.auth2.init({
-        client_id : 'YOUR_CONSOLE_ID.apps.googleusercontent.com'
-        }).then(res => {
-        return res.currentUser.get()
-        }).then(res => {
-        return res.getBasicProfile()
-        }).then(res => {
-        return res.getEmail()
-        })
+      gapi.auth2.init({
+          client_id : 'YOUR_CONSOLE_ID.apps.googleusercontent.com'
+          }).then(res => {
+            return res.signIn({scope : 'profile email'})
+          }).then(res => {
+            return res.getBasicProfile()
+          }).then(res => {
+            return res.getEmail()
+          })
     })
 }
 ```
