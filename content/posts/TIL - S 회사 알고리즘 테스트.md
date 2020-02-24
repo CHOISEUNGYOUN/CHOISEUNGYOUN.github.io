@@ -66,9 +66,9 @@ def test(n):
                 n[half] = '*'
                 n[half-j], n[half+j] = ('*','*')
 
-    backside = results[:len(results)-1]
-    for i in reversed(range(len(backside))):
-        results.append(backside[i])
+    leftovers = results[:half]
+    for i in reversed(range(half)):
+        results.append(leftovers[i])
 
     for i, n in enumerate(results):
         print(''.join(n))
