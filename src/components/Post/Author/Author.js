@@ -6,6 +6,7 @@ import { useSiteMetadata } from '../../../hooks';
 
 const Author = () => {
   const { author } = useSiteMetadata();
+  console.log(author.contacts.linkedin)
 
   return (
     <div className={styles['author']}>
@@ -13,7 +14,7 @@ const Author = () => {
         {author.bio}
         <a
           className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.linkedin)}
+          href={getContactHref('linkedin', author.contacts.linkedin)}
           rel="https://www.linkedin.com/in/seungyoun-choi-98192b108/"
           target="_blank"
         >

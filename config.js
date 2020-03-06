@@ -26,8 +26,8 @@ module.exports = {
     bio: 'On a trail to become a backend developer.',
     contacts: {
       twitter: '#',
-      github: '#',
-      linkedin: '#',
+      github: 'choiseungyoun',
+      linkedin: 'in/seungyoun-choi-98192b108/',
     }
   }
 };
