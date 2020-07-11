@@ -3,6 +3,18 @@ title: "About me"
 template: "page"
 ---
 
+`2020.04 ~`</br>
+
+### Full-stack Developer(Javascript & SQL) [Nuvent](https://attracker.shop/)</br>
+
+**(Seoul, South Korea)**</br>
+Build a service introduction website with wordpress.[Link](https://attracker.shop/) <br/>
+Customize HTML/CSS & PHP on the wordpress theme.<br/>
+Maintain & build additional features with React.js & Express.js
+
+- [Attracker](https://attracker.shop/) (Analyizing Retail Data by POS receipt transaction.)
+  <br/>
+
 `2019.10 ~ 2020.02`</br>
 
 ### Backend & Machine Learning Engineer, [Rawls-on](https://rawls-on.com/)</br>
