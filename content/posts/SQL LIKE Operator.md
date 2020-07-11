@@ -43,7 +43,7 @@ SELECT
 FROM
   account.user_log
 WHERE
-LIKE request_path 'https://www.w3schools.com/'%
+LIKE request_path 'https://www.w3schools.com/%'
 -- it returns rows including 'https://www.w3schools.com/'
 ```
 
