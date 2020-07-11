@@ -99,7 +99,7 @@ In this case, <code class="language-text">LIKE</code> operator helps you a lot! 
 <span class="token keyword">FROM</span>
   account<span class="token punctuation">.</span>user_log
 <span class="token keyword">WHERE</span>
-<span class="token operator">LIKE</span> request_path <span class="token string">'https://www.w3schools.com/'</span><span class="token operator">%</span>
+<span class="token operator">LIKE</span> request_path <span class="token string">'https://www.w3schools.com/%'</span>
 <span class="token comment">-- it returns rows including 'https://www.w3schools.com/'</span></code></pre></div>
 <p>Likewise, it helps you get pre-processed rows so that you can process further in your webserver!</p>
 <p>*Reference:<br/>
