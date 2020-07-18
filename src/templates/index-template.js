@@ -22,9 +22,9 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
     hasNextPage,
     hasPrevPage,
     prevPagePath,
-    nextPagePath
+    nextPagePath,
+    numPages,
   } = pageContext;
-
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
@@ -39,6 +39,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
           nextPagePath={nextPagePath}
           hasPrevPage={hasPrevPage}
           hasNextPage={hasNextPage}
+          numPages={numPages}
         />
       </Page>
     </Layout>

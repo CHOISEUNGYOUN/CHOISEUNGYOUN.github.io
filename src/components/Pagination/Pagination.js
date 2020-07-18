@@ -9,7 +9,8 @@ type Props = {
   prevPagePath: string,
   nextPagePath: string,
   hasNextPage: boolean,
-  hasPrevPage: boolean
+  hasPrevPage: boolean,
+  numPages: Number,
 };
 
 const cx = classNames.bind(styles);
@@ -18,7 +19,8 @@ const Pagination = ({
   prevPagePath,
   nextPagePath,
   hasNextPage,
-  hasPrevPage
+  hasPrevPage,
+  numPages,
 }: Props) => {
   const prevClassName = cx({
     'pagination__prev-link': true,
