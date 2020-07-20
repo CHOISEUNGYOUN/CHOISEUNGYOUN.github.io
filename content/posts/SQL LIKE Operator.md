@@ -10,7 +10,6 @@ tags:
   - "SQL LIKE"
   - "SQL Wildcards"
   - "Wecode"
-  - "위코드"
 description: "How SQL LIKE Operator works & get to know about wildcards"
 ---
 

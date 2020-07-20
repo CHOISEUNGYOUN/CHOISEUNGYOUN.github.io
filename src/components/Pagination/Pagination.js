@@ -40,7 +40,7 @@ const Pagination = ({
     'pagination__next-link--disable': !hasNextPage
   });
 
-  const results = paginationLinks(numPages)
+  const results = paginationLinks(numPages);
 
   return (
     <div className={styles['pagination']} style={{ display: 'flex', justifyContent: 'space-between' }}>
@@ -50,7 +50,7 @@ const Pagination = ({
       <div style={{ display: 'flex', justifyContent: 'space-around', width: '50%' }}>
         {
           results.map((page, i) =>
-            <div>
+            <div key={i}>
               <Link style={{ display: 'block' }} key={`page_${i}`} to={!page ? '/' : `/page/${page}`}>{page + 1}</Link>
             </div>
           )
