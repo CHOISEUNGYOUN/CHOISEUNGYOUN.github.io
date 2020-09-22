@@ -3,14 +3,20 @@ title: "About me"
 template: "page"
 ---
 
-`2020.04 ~`</br>
+`2020.09 ~ `</br>
+### Full-stack Developer(Ruby on Rails) [Itdaa](https://www.itdaa.net/)</br>
+**(Seoul, South Korea)**</br>
+
+`2020.04 ~ 2020.09`</br>
 
 ### Full-stack Developer(Javascript & SQL) [Nuvent](https://attracker.shop/)</br>
 
 **(Seoul, South Korea)**</br>
-Build a service introduction website with wordpress.[Link](https://attracker.shop/) <br/>
-Customize HTML/CSS & PHP on the wordpress theme.<br/>
-Maintain & build additional features with React.js & Express.js
+Build a service introduction website with wordpress.[Link](https://attracker.shop/) </br>
+Customize HTML/CSS & PHP on the wordpress theme.</br>
+Maintain & build additional features with React.js & Express.js</br>
+Developing a web scraper(BS4, Selenium & SQLAlchemy) for store reviews.</br>
+Developing new features & statistics on an admin web application.(SQL, React, Node.js)</br>
 
 - [Attracker](https://attracker.shop/) (Analyizing Retail Data by POS receipt transaction.)
   <br/>
