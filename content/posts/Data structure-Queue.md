@@ -3,7 +3,7 @@ title: "Data structure-Queue"
 date: "2020-10-27T22:55:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/data-structure-Queue/"
+slug: "/posts/queue/"
 category: "Data Structure"
 tags:
   - "Data Structure"
