@@ -8,6 +8,7 @@ import Meta from './Meta';
 import Tags from './Tags';
 import styles from './Post.module.scss';
 import type { Node } from '../../types';
+import Utterances from './Comments/Utterances';
 
 type Props = {
   post: Node
@@ -33,7 +34,7 @@ const Post = ({ post }: Props) => {
       </div>
 
       <div className={styles['post__comments']}>
-        <Comments postSlug={slug} postTitle={post.frontmatter.title} />
+        <Utterances repo="CHOISEUNGYOUN/CHOISEUNGYOUN.github.io" />
       </div>
     </div>
   );
