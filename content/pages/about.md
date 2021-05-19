@@ -5,6 +5,9 @@ template: "page"
 
 `2020.09 ~ `</br>
 ### Full-stack Developer(Ruby on Rails) [Itdaa](https://www.itdaa.net/)</br>
+Maintain a vocational training & career share platform Itdaa.
+Renew Q&A service.
+Build B2B2C online career teaching platform for jobseekers & fresh undergraduates
 **(Seoul, South Korea)**</br>
 
 `2020.04 ~ 2020.09`</br>
